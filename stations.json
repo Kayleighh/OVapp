@@ -1,0 +1,18 @@
+[
+    {
+        "station": {
+            "name": "Almelo",
+            "endStation": "Hardenberg",
+            "departure": "13:00"
+        }
+    },
+    {
+        "station": {
+            "name": "Zwolle",
+            "endStation": "Emmen",
+            "departure":"14:00",
+   
+            			
+        }
+    }
+]
